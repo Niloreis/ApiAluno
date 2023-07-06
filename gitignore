@@ -1,0 +1,41 @@
+# Arquivos de Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Arquivos de backup
+*~
+
+# Arquivos de configuração
+*.swp
+*.ini
+*.cfg
+
+# Arquivos de log
+*.log
+
+# Ambiente virtual (exemplo: virtualenv, pipenv, etc.)
+venv/
+env/
+
+# Dependências e pacotes instalados
+lib/
+libs/
+*.egg-info/
+dist/
+build/
+
+# Arquivos gerados por IDEs ou editores de texto
+.idea/
+.vscode/
+
+# Arquivos de saída / build
+*.pyo
+*.pyd
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Outros
+.DS_Store
+Thumbs.db
